@@ -6,12 +6,12 @@
 Ready and hungry to return back to the workforce! I am seeking to leverage my proven ability in risk management, analytical problem-solving, and data-driven decision-making to transition into a cybersecurity role. My goal is to apply my background in risk analysis to help organizations proactively secure their systems, mitigate vulnerabilities, and safeguard valuable data from external and internal threats.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+
 
 ADD
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +23,7 @@ ADD
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -46,7 +46,7 @@ ADD
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
